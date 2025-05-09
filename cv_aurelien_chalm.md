@@ -53,9 +53,7 @@ html, body {
 
 <h2>Aurélien Chalm</h2>
 
-📍 11 rue des Janviers, 27350 Hauville  
 📧 aurelien.chalm@gmail.com  
-📞 06 11 86 30 12  
 💼 [www.linkedin.com/in/aurélien-chalm-67b8a845](#)  
 🐙 [github.com/aurelienchalm](https://github.com/aurelienchalm)  
 
@@ -104,7 +102,7 @@ Dév. Java - Backend, Angular, Jenkins</p>
 ASP/Java - Fullstack, SQL, Linux</p>
 <hr>
 <h4>🎓 Formation</h4>
-<p>Data Science (2025)<br>
+<p>Data Science, Alumni Jedha (2025)<br>
 Université de Rouen (1996–2000)</p>
 <hr>
 <h4>📁 Projets</h4>
