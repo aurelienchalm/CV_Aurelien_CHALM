@@ -1,1 +1,1 @@
-📄 [Voir la version HTML du CV](cv_aurelien_chalm.html)  
+📄 [Voir mon CV en ligne (HTML)](https://aurelienchalm.github.io/CV_Aurelien_CHALM/cv_aurelien_chalm.html)
