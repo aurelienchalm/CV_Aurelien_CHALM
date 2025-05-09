@@ -65,7 +65,7 @@ html, body {
 </table>
 <div style="margin-left: 10px;">
   <h3>Profil</h3>
-  <p><strong>Data Engineer hybride en Développement & Data Science</strong>, 10 ans d'expérience en développement backend et gestion de projets data (Talend, SQL, Oracle), complétée par une formation avancée en Data Science, Cloud, IA générative, déploiement, MLOps.</p>
+  <p><strong>Data Engineer en Développement & Data Science</strong>, 10 ans d'expérience en développement backend et gestion de projets data (Talend, SQL, Oracle), complétée par une formation avancée en Data Science, Cloud, IA générative, déploiement, MLOps.</p>
   <hr style="margin: 0;">
 </div>
 
