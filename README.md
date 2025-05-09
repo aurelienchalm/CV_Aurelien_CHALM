@@ -1,1 +1,1 @@
-# CV_Aurelien_CHALM
+📄 [Voir la version HTML du CV](cv.html)  
