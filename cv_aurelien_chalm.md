@@ -109,7 +109,7 @@ Université de Rouen (1996–2000)</p>
 <ul>
   <li>Chatbot LLM (LangChain, RAG)</li>
   <li>Dashboard Streamlit</li>
-  <li>Scraper Booking anti-blocage</li>
+  <li>Scraper anti-blocage</li>
 </ul>
 <hr>
 <h4>🌐 Langues</h4>
