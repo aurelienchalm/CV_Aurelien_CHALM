@@ -5,15 +5,7 @@ date: "2025"
 ---
 
 <style>
-html, body {
-  margin: 0;
-  padding: 0;
-  width: 210mm;
-  font-family: sans-serif;
-  font-size: 5pt;
-  line-height: 1.3;
-  overflow-x: hidden;
-}
+
 
   @page {
     size: A4;
@@ -45,7 +37,22 @@ html, body {
     border-top: 1px solid #ccc;
     margin: 0.1em 0;
   }
+
+  .emoji-large {
+    display: inline-block;
+    width: 70px;
+    height: 10px;
+    font-size: 10px;
+    text-align: center;
+    vertical-align: center;
+    border: none;
+  }
+
 </style>
+
+<!-- ✅ Début du conteneur avec fond -->
+<div style="background-color: rgb(252, 252, 242); padding: 1cm;">
+
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
@@ -77,21 +84,21 @@ html, body {
 <h4>🛠 Compétences techniques</h4>
 
 <p>
-<strong>Langages & Outils</strong> : Python (Pandas, NumPy), SQL, PL/SQL, Git, Bash<br>
-<strong>DataViz</strong> : Plotly, Seaborn<br>
-<strong>ETL / Traitement</strong> : Talend Open Studio, PySpark, Databricks<br>
-<strong>API & Scraping</strong> : FastAPI, Scrapy<br>
-<strong>Cloud</strong> : AWS (S3, RDS), GCP (Storage, BigQuery)<br>
-<strong>MLOps & Déploiement</strong> : Docker, MLFlow, Streamlit, FastAPI, Hugging Face<br>
-<strong>Bases de données</strong> : Oracle, MySQL, PostgreSQL, Weaviate (vector DB)<br>
-<strong>ML Supervisé</strong> : Scikit-learn, régressions, arbres de décision, Random Forest, Time Series<br>
-<strong>ML Non supervisé</strong> : KMeans, DBSCAN, PCA, NLP non supervisé, Topic Modeling<br>
-<strong>Deep Learning</strong> : PyTorch, TensorFlow, CNN, Transfer Learning, GANs, Transformers<br>
-<strong>LLM & IA générative</strong> : LangChain, RAG, fine-tuning, embeddings, Weaviate
+<strong>Langages & Outils</strong> : Python (Pandas, NumPy) <span class="emoji-large">🟢🟢🟢⚪⚪</span>, SQL et PL/SQL <span class="emoji-large">🟢🟢🟢🟢⚪</span>, Git, Bash<br>
+<strong>DataViz</strong> : Plotly, Seaborn <span class="emoji-large">🟢🟢🟢🟢⚪</span><br>
+<strong>ETL / Traitement</strong> : Talend Open Studio, PySpark, Databricks <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
+<strong>API & Scraping</strong> : FastAPI, Scrapy <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
+<strong>Cloud</strong> : AWS (S3, RDS), GCP (Storage, BigQuery) <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
+<strong>MLOps & Déploiement</strong> : Docker, MLFlow, Streamlit, Hugging Face <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
+<strong>Bases de données</strong> : Oracle, MySQL, PostgreSQL, Weaviate (vector DB) <span class="emoji-large">🟢🟢🟢🟢⚪</span><br>
+<strong>ML Supervisé</strong> : Scikit-learn, régressions, arbres de décision, Random Forest, Time Series <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
+<strong>ML Non supervisé</strong> : KMeans, DBSCAN, PCA, NLP non supervisé, Topic Modeling <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
+<strong>Deep Learning</strong> : PyTorch, TensorFlow, CNN, Transfer Learning, GANs, Transformers <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
+<strong>LLM & IA générative</strong> : LangChain, RAG, fine-tuning, embeddings, Weaviate <span class="emoji-large">🟢🟢🟢🟢⚪</span>
 </p>
 
   </td>
-  <td style="vertical-align: top; width: 40%;">
+  <td style="vertical-align: top; width: 100%;">
 
 <h4>💼 Expérience pro</h4>
 <p><strong>iQera (2023–2024)</strong><br>
@@ -129,3 +136,5 @@ Université de Rouen (1996–2000)</p>
   </tr>
 </table>
 </div>
+
+</div> <!-- ✅ Fin du conteneur avec fond -->
