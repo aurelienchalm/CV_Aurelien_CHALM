@@ -9,13 +9,17 @@ date: "2025"
 
   @page {
     size: A4;
-    margin: 1cm;
+    margin: 0cm;
   }
 
-  table, th, td {
+  th, td {
     border: none;
     padding: 0;
     margin: 0;
+  }
+  body, table {
+  width: 100% !important;
+  max-width: 100%;
   }
 
   img {
@@ -51,7 +55,7 @@ date: "2025"
 </style>
 
 <!-- ✅ Début du conteneur avec fond -->
-<div style="background-color: rgb(252, 252, 242); padding: 1cm;">
+<div style="background-color: rgb(252, 252, 242); padding: 0.5cm; max-width: 100%; width: 100%;">
 
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
@@ -100,23 +104,23 @@ date: "2025"
   </td>
   <td style="vertical-align: top; width: 100%;">
 
-<h4>💼 Expérience pro</h4>
-<p><strong>iQera (2023–2024)</strong><br>
+<h4>💼 Expérience professionnelle</h4>
+<p><strong>iQera (2020–2024)</strong><br>
 Chef de projet EDI - Talend, SQL, Oracle</p>
 <p><strong>MCS Groupe (2012–2019)</strong><br>
-Dév. Java - Backend, Angular, Jenkins</p>
+Dév. Java & PL/SQL - Backend, Angular, Jenkins</p>
 <p><strong>Sungard (2000–2011)</strong><br>
 ASP/Java - Fullstack, SQL, Linux</p>
 <hr>
 <h4>🎓 Formation</h4>
 <p>Data Science, Alumni Jedha (2025)<br>
-Université de Rouen (1996–2000)</p>
+Université de Rouen, Maitrise Bio Informatique (1996–2000)</p>
 <hr>
 <h4>📁 Projets</h4>
 <ul>
-  <li>Chatbot LLM (LangChain, RAG)</li>
-  <li>Dashboard Streamlit</li>
-  <li>Scraper anti-blocage</li>
+  <li>Chatbot LLM (LangChain, RAG, API Mistral AI)</li>
+  <li>EDA, scraping, Data Lake & Data Ware House (AWS)</li>
+  <li>Databricks, Pyspark</li>
 </ul>
 <hr>
 <h4>🌐 Langues</h4>
