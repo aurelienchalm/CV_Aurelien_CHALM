@@ -65,7 +65,7 @@ date: "2025"
 <h2>Aurélien Chalm</h2>
 
 📧 aurelien.chalm@gmail.com  
-💼 [www.linkedin.com/in/aurélien-chalm-67b8a845](#)  
+💼 [linkedin.com/in/aurélien-chalm](https://www.linkedin.com/in/aurélien-chalm-67b8a845/)   
 🐙 [github.com/aurelienchalm](https://github.com/aurelienchalm)  
 
   </td>
