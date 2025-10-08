@@ -64,7 +64,8 @@ date: "2025"
 
 <h2>Aurélien Chalm</h2>
 
-📧 aurelien.chalm@gmail.com  
+📧 aurelien.chalm@gmail.com
+📱 0611863012 
 💼 [linkedin.com/in/aurélien-chalm](https://www.linkedin.com/in/aurélien-chalm-67b8a845/)   
 🐙 [github.com/aurelienchalm](https://github.com/aurelienchalm)  
 
@@ -76,7 +77,7 @@ date: "2025"
 </table>
 <div style="margin-left: 10px;">
   <h3>Profil</h3>
-  <p><strong>Data Engineer en Développement & Data Science</strong>, 10 ans d'expérience en développement backend et gestion de projets data (Talend, SQL, Oracle), complétée par une formation avancée en Data Science, Cloud, IA générative, déploiement, MLOps.</p>
+  <p><strong>Data Engineer en Développement & Data Science</strong>, 10 ans d'expérience en développement backend et gestion de projets data (Talend, SQL, Oracle), complétée par une formation avancée en Data Science, Cloud, IA générative, déploiement, MLOps, Reinforcement Learning, Data Governance.</p>
   <hr style="margin: 0;">
 </div>
 
@@ -90,15 +91,19 @@ date: "2025"
 <p>
 <strong>Langages & Outils</strong> : Python (Pandas, NumPy) <span class="emoji-large">🟢🟢🟢⚪⚪</span>, SQL et PL/SQL <span class="emoji-large">🟢🟢🟢🟢⚪</span>, Git, Bash<br>
 <strong>DataViz</strong> : Plotly, Seaborn <span class="emoji-large">🟢🟢🟢🟢⚪</span><br>
-<strong>ETL / Traitement</strong> : Talend Open Studio, PySpark, Databricks <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
+<strong>ETL/ELT/Traitement</strong> : Talend Open Studio, PySpark, Databricks, Airbyte<span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
 <strong>API & Scraping</strong> : FastAPI, Scrapy <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
-<strong>Cloud</strong> : AWS (S3, RDS), GCP (Storage, BigQuery) <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
-<strong>MLOps & Déploiement</strong> : Docker, MLFlow, Streamlit, Hugging Face <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
-<strong>Bases de données</strong> : Oracle, MySQL, PostgreSQL, Weaviate (vector DB) <span class="emoji-large">🟢🟢🟢🟢⚪</span><br>
+<strong>Cloud</strong> : AWS (S3, RDS, EC2), GCP (Storage, BigQuery) <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
+<strong>MLOps & Déploiement</strong> : Docker, MLFlow, Streamlit, Hugging Face, Jenkins, Airflow <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
+<strong>Computing</strong> : Kubernetes, Ray <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
+<strong>Bases de données</strong> : Oracle, MySQL, PostgreSQL, Weaviate (vector DB), MongoDB <span class="emoji-large">🟢🟢🟢🟢⚪</span><br>
 <strong>ML Supervisé</strong> : Scikit-learn, régressions, arbres de décision, Random Forest, Time Series <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
 <strong>ML Non supervisé</strong> : KMeans, DBSCAN, PCA, NLP non supervisé, Topic Modeling <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
-<strong>Deep Learning</strong> : PyTorch, TensorFlow, CNN, Transfer Learning, GANs, Transformers <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
-<strong>LLM & IA générative</strong> : LangChain, RAG, fine-tuning, embeddings, Weaviate <span class="emoji-large">🟢🟢🟢🟢⚪</span>
+<strong>Deep Learning</strong> : PyTorch, TensorFlow, CNN, Transfer Learning, GANs, Embeddings, Transformers <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
+<strong>LLM & IA générative</strong> : LangChain, RAG, fine-tuning, Embeddings, Weaviate <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
+<strong>Reinforcement Learning</strong> : Q Learning, RLHF <span class="emoji-large">🟢🟢⚪⚪⚪</span><br>
+<strong>Data Governance</strong> : Data Quality, Data Management, Regulations <span class="emoji-large">🟢🟢⚪⚪⚪</span>
+
 </p>
 <hr>
 <h4>📁 Projets</h4>
@@ -111,7 +116,7 @@ date: "2025"
   Gestion de projets (flux financiers, flux de gestion d'actes de gestion (commissaires de justice)).
 
 <li><b>Data Science/Engineering</b> : Chatbot LLM, EDA, scraping, Data Lake & Data Ware House (AWS),
-Databricks, Pyspark, ML, DL, déploiement (🐙 <a href="https://github.com/aurelienchalm" target="_blank">github.com/aurelienchalm)</a></li>
+Databricks, Pyspark, ML, DL, déploiement, data governance, architecture (🐙 <a href="https://github.com/aurelienchalm" target="_blank">github.com/aurelienchalm)</a></li>
 </ul>
 
   </td>
