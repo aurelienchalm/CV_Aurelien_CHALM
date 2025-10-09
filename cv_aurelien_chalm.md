@@ -94,7 +94,7 @@ date: "2025"
 <strong>ETL/ELT/Traitement</strong> : Talend Open Studio, PySpark, Databricks, Airbyte<span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
 <strong>API & Scraping</strong> : FastAPI, Scrapy <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
 <strong>Cloud</strong> : AWS (S3, RDS, EC2), GCP (Storage, BigQuery) <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
-<strong>MLOps & Déploiement</strong> : Docker, MLFlow, Streamlit, Hugging Face, Jenkins, Airflow <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
+<strong>MLOps & Déploiement</strong> : Docker, MLFlow, Streamlit, Hugging Face, Jenkins, Airflow, Evidently <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
 <strong>Computing</strong> : Kubernetes, Ray <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
 <strong>Bases de données</strong> : Oracle, MySQL, PostgreSQL, Weaviate (vector DB), MongoDB <span class="emoji-large">🟢🟢🟢🟢⚪</span><br>
 <strong>ML Supervisé</strong> : Scikit-learn, régressions, arbres de décision, Random Forest, Time Series <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
@@ -116,7 +116,7 @@ date: "2025"
   Gestion de projets (flux financiers, flux de gestion d'actes de gestion (commissaires de justice)).
 
 <li><b>Data Science/Engineering</b> : Chatbot LLM, EDA, scraping, Data Lake & Data Ware House (AWS),
-Databricks, Pyspark, ML, DL, déploiement, data governance, architecture (🐙 <a href="https://github.com/aurelienchalm" target="_blank">github.com/aurelienchalm)</a></li>
+Databricks, Pyspark, ML, DL, déploiement, data governance, architecture, data drift avec Evidently (🐙 <a href="https://github.com/aurelienchalm" target="_blank">github.com/aurelienchalm)</a></li>
 </ul>
 
   </td>
