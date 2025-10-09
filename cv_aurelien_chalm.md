@@ -55,7 +55,7 @@ date: "2025"
 </style>
 
 <!-- ✅ Début du conteneur avec fond -->
-<div style="background-color: rgb(252, 252, 242); padding: 0.5cm; max-width: 100%; width: 100%;">
+<div style="background-color: rgba(242, 245, 252, 1); padding: 0.5cm; max-width: 100%; width: 100%;">
 
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
