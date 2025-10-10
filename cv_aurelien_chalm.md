@@ -77,7 +77,7 @@ date: "2025"
 </table>
 <div style="margin-left: 10px;">
   <h3>Profil</h3>
-  <p><strong>Data Engineer en Développement & Data Science</strong>, 10 ans d'expérience en développement backend et gestion de projets data (Talend, SQL, Oracle), complétée par une formation avancée en Data Science, Cloud, IA générative, déploiement, MLOps, Reinforcement Learning, Data Governance.</p>
+  <p><strong>Data Engineer en Développement & Data Science</strong>, 10 ans d'expérience en développement backend et gestion de projets data (Talend, SQL, Oracle), complétée par une formation avancée en Data Science : Cloud, Machine Learning, Deep Learning, IA générative, déploiement, MLOps, Reinforcement Learning, Data Governance.</p>
   <hr style="margin: 0;">
 </div>
 
@@ -90,19 +90,19 @@ date: "2025"
 
 <p>
 <strong>Langages & Outils</strong> : Python (Pandas, NumPy) <span class="emoji-large">🟢🟢🟢⚪⚪</span>, SQL et PL/SQL <span class="emoji-large">🟢🟢🟢🟢⚪</span>, Git, Bash<br>
-<strong>DataViz</strong> : Plotly, Seaborn <span class="emoji-large">🟢🟢🟢🟢⚪</span><br>
+<strong>DataViz</strong> : Plotly, Seaborn, Power BI, Tableau <span class="emoji-large">🟢🟢🟢🟢⚪</span><br>
 <strong>ETL/ELT/Traitement</strong> : Talend Open Studio, PySpark, Databricks, Airbyte<span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
 <strong>API & Scraping</strong> : FastAPI, Scrapy <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
 <strong>Cloud</strong> : AWS (S3, RDS, EC2), GCP (Storage, BigQuery) <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
-<strong>MLOps & Déploiement</strong> : Docker, MLFlow, Streamlit, Hugging Face, Jenkins, Airflow, Evidently <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
+<strong>MLOps & Déploiement</strong> : Docker, MLflow, Streamlit, Hugging Face, Jenkins, Airflow, Evidently <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
 <strong>Computing</strong> : Kubernetes, Ray <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
 <strong>Bases de données</strong> : Oracle, MySQL, PostgreSQL, Weaviate (vector DB), MongoDB <span class="emoji-large">🟢🟢🟢🟢⚪</span><br>
 <strong>ML Supervisé</strong> : Scikit-learn, régressions, arbres de décision, Random Forest, Time Series <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
 <strong>ML Non supervisé</strong> : KMeans, DBSCAN, PCA, NLP non supervisé, Topic Modeling <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
 <strong>Deep Learning</strong> : PyTorch, TensorFlow, CNN, Transfer Learning, GANs, Embeddings, Transformers <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
 <strong>LLM & IA générative</strong> : LangChain, RAG, fine-tuning, Embeddings, Weaviate <span class="emoji-large">🟢🟢🟢⚪⚪</span><br>
-<strong>Reinforcement Learning</strong> : Q Learning, RLHF <span class="emoji-large">🟢🟢⚪⚪⚪</span><br>
-<strong>Data Governance</strong> : Data Quality, Data Management, Regulations <span class="emoji-large">🟢🟢⚪⚪⚪</span>
+<strong>Reinforcement Learning</strong> : Q-Learning, RLHF <span class="emoji-large">🟢🟢⚪⚪⚪</span><br>
+<strong>Data Governance</strong> : Data Quality, Data Management, Réglementations <span class="emoji-large">🟢🟢⚪⚪⚪</span>
 
 </p>
 <hr>
@@ -113,7 +113,7 @@ date: "2025"
   -encaissement/compta/facturation (recouvrement de créances) <br>
   -cashflow prévisionnel</li>
   <li><b>iQera</b> : développements de flux financiers (ETL) en sous traitance (clients secteur bancaire).<br>
-  Gestion de projets (flux financiers, flux de gestion d'actes de gestion (commissaires de justice)).
+  Gestion de projets (flux financiers, flux d'actes de gestion (commissaires de justice)).
 
 <li><b>Data Science/Engineering</b> : Chatbot LLM, EDA, scraping, Data Lake & Data Ware House (AWS),
 Databricks, Pyspark, ML, DL, déploiement, data governance, architecture, data drift avec Evidently (🐙 <a href="https://github.com/aurelienchalm" target="_blank">github.com/aurelienchalm)</a></li>
@@ -132,7 +132,7 @@ ASP/Java - Fullstack, SQL, Linux</p>
 <hr>
 <h4>🎓 Formation</h4>
 <p>Data Science, Alumni Jedha (2025)<br>
-Université de Rouen, Maitrise Bio Informatique (1996–2000)</p>
+Université de Rouen, Maitrise Bio-Informatique (1996–2000)</p>
 <hr>
 <h4>🌐 Langues</h4>
 <ul>
@@ -143,8 +143,8 @@ Université de Rouen, Maitrise Bio Informatique (1996–2000)</p>
 <h4>🏃 Hobbies</h4>
 <ul>
   <li>Marathon RP 3h27</li>
-  <li>Semi-Marathon RP 1h35</li>
-  <li>Trailer 50 KM, 66 KM</li>
+  <li>Semi-marathon RP 1h35</li>
+  <li>Trailer 50 km, 66 km</li>
 </ul>
 
   </td>
