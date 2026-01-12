@@ -211,7 +211,7 @@ li{ margin: 3px 0; }
   <h3>Expérience professionnelle</h3>
 
   <p><strong>iQera</strong> <span class="muted">(2020–2024)</span><br>
-  <span class="muted">Chef de projet EDI — Talend, SQL, Oracle</span></p>
+  <span class="muted">Chef de projet Data — Talend, SQL, Oracle</span></p>
     
   <p><strong>MCS Groupe</strong> <span class="muted">(2012–2019)</span><br>
   <span class="muted">Développement Java & PL/SQL — Backend, Angular, Jenkins</span></p>
