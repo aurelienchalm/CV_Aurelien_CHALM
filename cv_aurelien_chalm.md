@@ -1,5 +1,5 @@
 ---
-title: "Aurélien Chalm - Machine Learning Engineer | MLOps | AI Architect"
+title: "Aurélien Chalm - GenAI Engineer | MLOps | AI Architect"
 author: "Aurélien Chalm"
 date: "2025"
 ---
@@ -147,7 +147,7 @@ li{ margin: 3px 0; }
 <div class="header">
   <div>
     <h2 class="name">Aurélien Chalm</h2>
-    <div class="title">Machine Learning Engineer | MLOps | AI Architect</div>
+    <div class="title">GenAI Engineer | MLOps | AI Architect</div>
 
   <div class="contact">
       <div>📧 aurelien.chalm@gmail.com</div>
@@ -163,7 +163,7 @@ li{ margin: 3px 0; }
 <div class="section">
   <h3>Profil</h3>
   <p class="muted">
-    Data Engineer & Machine Learning Engineer | MLOps | AI Architect, 10 ans d’expérience en développement backend et gestion de projets data
+    Data Engineer & GenAI Engineer | MLOps | AI Architect, 10 ans d’expérience en développement backend et gestion de projets data
     (Talend, SQL, Oracle), complétés par une formation Data Science (RNCP niveau 6 & 7) :
     Cloud, Machine Learning, Deep Learning, IA générative, déploiement, MLOps,
     Reinforcement Learning et Data Governance.
