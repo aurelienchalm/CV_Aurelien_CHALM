@@ -197,7 +197,7 @@ li{ margin: 3px 0; }
 
   <h3>Projets Data & IA</h3>
  
-  <p class="chipline"><strong>Data Science/Engineering</strong> : Chatbot LLM, EDA, scraping, Data Lake & Data Ware House (AWS),
+  <p class="chipline"><strong>Data Science/Engineering</strong> : Chatbot LLM, RAG, Agent LLM, EDA, scraping, Data Lake & Data Ware House (AWS),
   Databricks, Pyspark, ML, DL, déploiement, data governance, architecture, data drift avec Evidently</p><br>
   <p class="chipline"><strong>iQera</strong> : développements de flux financiers (ETL) en sous traitance (clients secteur bancaire).
   Gestion de projets (flux financiers, flux d'actes de gestion (commissaires de justice)).</p><br>
