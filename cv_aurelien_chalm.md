@@ -1,5 +1,5 @@
 ---
-title: "Aurélien Chalm - GenAI Engineer | MLOps | AI Architect"
+title: "Aurélien Chalm - Data Engineer | MLOps | GenAI"
 author: "Aurélien Chalm"
 date: "2025"
 ---
@@ -27,7 +27,7 @@ body{
   color: var(--text);
   background: var(--bg);
   line-height: 1.25;
-  font-size: 10.5pt;
+  font-size: 9.8pt;
 }
 
 a{ color: var(--accent); text-decoration: none; }
@@ -36,8 +36,6 @@ a:hover{ text-decoration: underline; }
 
 .page{
   background: var(--bg);
-  min-height: 100vh;
-  display: flex;
 }
 
 
@@ -56,7 +54,7 @@ a:hover{ text-decoration: underline; }
   align-items: center;
   padding-bottom: 10px;
   border-bottom: 1px solid var(--border);
-  margin-bottom: 10px;
+  margin-bottom: 6px;
 }
 
 .name{
@@ -95,21 +93,33 @@ a:hover{ text-decoration: underline; }
   gap: 14px;
 }
 
-.section{ break-inside: avoid; }
+.section{
+  break-inside: auto;
+  page-break-inside: auto;
+}
+
+.section.protected{
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
 
 .section h3{
   font-size: 11.5pt;
-  margin: 0 0 6px 0;
+  margin: 0 0 3px 0;
   padding-left: 10px;
   border-left: 4px solid var(--accent);
 }
 
 .muted{ color: var(--muted); }
 
+.section p{
+  margin: 0 0 2px 0;
+}
+
 .sep{
   height: 1px;
   background: var(--border);
-  margin: 8px 0;
+  margin: 6px 0;
   border: 0;
 }
 
@@ -121,6 +131,7 @@ li{ margin: 3px 0; }
   padding: 0;
   font-size: 9.8pt;
   color: var(--muted);
+  line-height: 1.15;
 }
 .chipline strong{ color: var(--text); }
 
@@ -139,6 +150,28 @@ li{ margin: 3px 0; }
   height:100%;
   background: var(--accent);
 }
+
+@media print {
+  .page {
+    display: block;
+  }
+
+  /* KEEP grid layout for 2-column CV */
+  .grid {
+    display: grid;
+    grid-template-columns: 1.35fr 1fr;
+  }
+
+  .cv {
+    border: none;
+    border-radius: 0;
+    padding: 10px 12px; /* slightly reduce spacing */
+  }
+
+  body {
+    font-size: 9.5pt; /* compact a bit to fit 1 page */
+  }
+}
 </style>
 
 <div class="page">
@@ -147,7 +180,7 @@ li{ margin: 3px 0; }
 <div class="header">
   <div>
     <h2 class="name">Aurélien Chalm</h2>
-    <div class="title">GenAI Engineer | MLOps | AI Architect</div>
+    <div class="title">Data Engineer | MLOps | GenAI</div>
 
   <div class="contact">
       <div>📧 aurelien.chalm@gmail.com</div>
@@ -160,13 +193,10 @@ li{ margin: 3px 0; }
   <img class="photo" src="IMG_9418.jpeg" alt="Photo de profil">
 </div>
 
-<div class="section">
+<div class="section protected">
   <h3>Profil</h3>
   <p class="muted">
-    Data Engineer & GenAI Engineer | MLOps | AI Architect, 10 ans d’expérience en développement backend et gestion de projets data
-    (Talend, SQL, Oracle), complétés par une formation Data Science (RNCP niveau 6 & 7) :
-    Cloud, Machine Learning, Deep Learning, IA générative, déploiement, MLOps,
-    Reinforcement Learning et Data Governance.
+    Data Engineer spécialisé en conception et industrialisation de pipelines de données, avec 10 ans d’expérience en développement backend, gestion de flux de données et projets data (Talend, SQL, OLTP). Compétences renforcées en Data Engineering sur des projets IA : architectures cloud (AWS, GCP), modélisation et traitement des données (OLTP, OLAP, NoSQL), orchestration (Airflow), ingestion et transformation de données, qualité et fiabilité des données. Actuellement en préparation de la certification Google Cloud Professional Data Engineer.
   </p>
 </div>
 
@@ -177,33 +207,33 @@ li{ margin: 3px 0; }
 <div class="section">
   <h3>Compétences clés</h3>
 
-  <p class="chipline"><strong>Python</strong> (Pandas, NumPy, EDA) <span class="level"><span style="width:70%"></span></span></p>
+  <p class="chipline"><strong>Python</strong> (ETL, data pipelines, PySpark, Pandas, OOP) <span class="level"><span style="width:80%"></span></span></p>
   <p class="chipline"><strong>SQL / PL-SQL</strong> <span class="level"><span style="width:85%"></span></span></p>
+  <p class="chipline"><strong>Data Engineering</strong> (ETL/ELT, Airbyte, Talend, Databricks, Airflow) <span class="level"><span style="width:80%"></span></span></p>
+  <p class="chipline"><strong>Databases</strong> (PostgreSQL, Oracle, MySQL, Snowflake, MongoDB, Weaviate, pgvector) <span class="level"><span style="width:85%"></span></span></p>
+  <p class="chipline"><strong>Cloud & Infrastructure</strong> (GCP, AWS, Kubernetes, Ray) <span class="level"><span style="width:70%"></span></span></p>
+  <p class="chipline"><strong>Data & MLOps</strong> (MLflow, Docker, Jenkins, Evidently) <span class="level"><span style="width:75%"></span></span></p>
   <p class="chipline"><strong>Git, Bash</strong> <span class="level"><span style="width:80%"></span></span></p>
+  <p class="chipline"><strong>API & Scraping</strong> (FastAPI, Scrapy) <span class="level"><span style="width:70%"></span></span></p>
   <p class="chipline"><strong>DataViz</strong> (Plotly, Seaborn, Power BI, Tableau) <span class="level"><span style="width:70%"></span></span></p>
-  <p class="chipline"><strong>ETL / ELT</strong> (Talend, Airbyte, PySpark, Databricks) <span class="level"><span style="width:70%"></span></span></p>
-   <p class="chipline"><strong>API & Scraping</strong> (FastAPI, Scrapy) <span class="level"><span style="width:70%"></span></span></p>
-  <p class="chipline"><strong>MLOps</strong> (Docker, MLflow, Streamlit, Hugging Face, Jenkins, Airflow, Evidently) <span class="level"><span style="width:70%"></span></span></p>
-  <p class="chipline"><strong>Computing</strong> (Kubernetes, Ray) <span class="level"><span style="width:60%"></span></span></p>
-  <p class="chipline"><strong>Bases de données</strong> (Oracle, MySQL, PostgreSQL, Weaviate (vector DB), MongoDB) <span class="level"><span style="width:80%"></span></span></p>
+  <p class="chipline"><strong>Data Governance</strong> (Data Quality, Data Management, Réglementations) <span class="level"><span style="width:60%"></span></span></p>
   <p class="chipline"><strong>ML Supervisé et non supervisé</strong> <span class="level"><span style="width:70%"></span></span></p>
   <p class="chipline"><strong>Deep Learning</strong> (TensorFlow, Transfer Learning, Embeddings, Transformers) <span class="level"><span style="width:60%"></span></span></p>
-  <p class="chipline"><strong>LLM & IA générative</strong> (LangChain, RAG) <span class="level"><span style="width:70%"></span></span></p>
-  <p class="chipline"><strong>Reinforcement Learning</strong> (Q-Learning, RLHF) <span class="level"><span style="width:55%"></span></span></p>
-  <p class="chipline"><strong>Cloud</strong> (AWS, GCP) <span class="level"><span style="width:70%"></span></span></p>
-  <p class="chipline"><strong>Data Governance</strong> (Data Quality, Data Management, Réglementations) <span class="level"><span style="width:60%"></span></span></p>
-
+  <p class="chipline"><strong>LLM & IA générative</strong> (LangChain, RAG, Agents) <span class="level"><span style="width:70%"></span></span></p>
+  
   <hr class="sep"/>
 
   <h3>Projets Data & IA</h3>
- 
-  <p class="chipline"><strong>Data Science/Engineering</strong> : Chatbot LLM, RAG, Agent LLM, EDA, scraping, Data Lake & Data Ware House (AWS),
-  Databricks, Pyspark, ML, DL, déploiement, data governance, architecture, data drift avec Evidently</p><br>
-  <p class="chipline"><strong>iQera</strong> : développements de flux financiers (ETL) en sous traitance (clients secteur bancaire).
-  Gestion de projets (flux financiers, flux d'actes de gestion (commissaires de justice)).</p><br>
-  <p class="chipline"><strong>MCS</strong> : développement en Java et PL/SQL de logiciels internes : <br>
-  -encaissement/compta/facturation (recouvrement de créances)</p><br>
-  <p class="chipline"><strong>Sungard</strong> : développement en Java de l'intranet et d'outils internes (éditeur de logiciels boursiers)</p>
+
+  <p class="chipline"><strong>Chatbot RAG – Revue Programmez!</strong> : Conception d’un système RAG end-to-end : ingestion PDF → chunking → embeddings → stockage vectoriel (pgvector/Weaviate) → API FastAPI. Routing LLM (Mistral/OpenAI), mémoire conversationnelle, réponses sourcées. <em>Impact :</em> recherche sémantique fiable et réponses contextualisées.</p>
+
+  <p class="chipline"><strong>Pipeline Data & MLOps</strong> : Mise en place de pipelines de données (ingestion → transformation → stockage), orchestration Airflow, monitoring (Evidently), versioning & tracking (MLflow), CI/CD (Jenkins). <em>Stack :</em> Python, PySpark, Airflow, MLflow, Docker, AWS.</p>
+
+  <p class="chipline"><strong>iQera – Flux financiers</strong> : Conception et industrialisation de flux ETL (Talend, SQL, Oracle) pour clients bancaires. Garanties de qualité, fiabilité et performance des données. Coordination métier et suivi de production.</p>
+
+  <p class="chipline"><strong>MCS Groupe – Applications internes</strong> : Développement backend (Java, PL/SQL) de modules d’encaissement, comptabilité et facturation pour le recouvrement de créances. Intégration avec SI existants.</p>
+
+  <p class="chipline"><strong>Sungard – Outils intranet</strong> : Développement d’outils internes (Java) pour un éditeur de logiciels financiers. Maintenance et évolution d’applications métiers.</p>
   
 </div>
 
@@ -211,19 +241,19 @@ li{ margin: 3px 0; }
   <h3>Expérience professionnelle</h3>
 
   <p><strong>iQera</strong> <span class="muted">(2020–2024)</span><br>
-  <span class="muted">Chef de projet Data — Talend, SQL, Oracle</span></p>
+  <span class="muted">Chef de projet Data & Data Engineer — Conception et industrialisation de pipelines ETL (Talend, SQL, Oracle) pour flux financiers. Mise en place de contrôles de qualité des données, optimisation des performances, supervision des traitements. Coordination avec équipes métier et suivi de production.</span></p>
     
   <p><strong>MCS Groupe</strong> <span class="muted">(2012–2019)</span><br>
-  <span class="muted">Développement Java & PL/SQL — Backend, Angular, Jenkins</span></p>
+  <span class="muted">Développeur Backend (Java, PL/SQL) — Conception de modules d’encaissement, comptabilité et facturation. Intégration SI, optimisation requêtes SQL, automatisation des tests (Jenkins), participation à la maintenance et à l’évolution des applications.</span></p>
 
   <p><strong>Sungard</strong> <span class="muted">(2000–2011)</span><br>
-  <span class="muted">ASP / Java — Fullstack, SQL, Linux</span></p>
+  <span class="muted">Développeur Fullstack (ASP, Java, SQL) — Développement d’outils intranet pour un éditeur de logiciels financiers. Maintenance applicative, évolution des fonctionnalités, environnement Linux.</span></p>
 
   <hr class="sep"/>
 
   <h3>Formation</h3>
   <p class="muted">
-    Jedha (2025) — Data Science, certifié RNCP niveau 6 & 7<br>
+    Jedha (2025) — Data Science & Data Engineering, certifié RNCP niveau 6 & 7<br>
     Université de Rouen — Maîtrise Bio-Informatique (1996–2000)
   </p>
 
