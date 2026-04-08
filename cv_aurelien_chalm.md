@@ -253,7 +253,7 @@ li{ margin: 3px 0; }
 
   <h3>Formation</h3>
   <p class="muted">
-    Jedha (2025) — Data Science & Data Engineering, certifié RNCP niveau 6 & 7<br>
+    Jedha (2025) — Data Science & Data Engineering, certifié RNCP niveau 6 & 7 (Master 2)<br>
     Université de Rouen — Maîtrise Bio-Informatique (1996–2000)
   </p>
 
